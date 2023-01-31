@@ -15,7 +15,7 @@ Some Git Instructions
     * Open your fork (copy) of the repository in a GitHub code space
     * Don't forget to commit your work before the code space shuts down!
   * Using git on the commandline (including in a jupyterhub terminal):
-    * Get your fork (copy) of the repository: git clone git@github.com:(yourusername)/CS252S22ProjectsLabs.git
+    * Get your fork (copy) of the repository: git clone git@github.com:(yourusername)/CS343Projects.git
     * Update your repository after you have...
       * Changed a file: 
         * git commit -m 'This is how I changed these files' .
