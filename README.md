@@ -8,7 +8,7 @@ Some Git Instructions
 * Fork this git repository (get your own copy): log in to [github](https://github.com) and go to [this page](https://github.com/ajstent/CS343Projects) and click "Fork"
   * In Settings:
     * Make sure you set the repository to 'Private'
-    * Make sure you add your instructor (ajstent) as a Collaborator
+    * Make sure you add your teammate and your instructor (ajstent) as a Collaborator
 * Set a ssh key for github: follow [these instructions](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 * Work with your repository:
   * Using git from github.com:
