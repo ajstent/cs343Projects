@@ -5,6 +5,8 @@ Template for CS343 Spring 23 Projects
 Some Git Instructions
 ---------------------
 
+Here is a handy [git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf).
+
 * Fork this git repository (get your own copy): log in to [github](https://github.com) and go to [this page](https://github.com/ajstent/CS343Projects) and click "Fork"
   * In Settings:
     * Make sure you set the repository to 'Private'
